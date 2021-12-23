@@ -1,3 +1,3 @@
 # A readme
 
-this is a fun read me
+This is a fun read me.
